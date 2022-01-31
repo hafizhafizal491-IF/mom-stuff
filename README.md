@@ -1,10 +1,10 @@
 # Mom's Stuff
 
-# Description Program
+## Description Program
 Mom’s Stuff Company merupakan penyedia layanan marketplace untuk menjual barang-barang kreasi ibu rumah tangga. Mom’s Stuff digunakan untuk mempermudah para ibu rumah tangga agar mereka tidak perlu kebingungan atau kesulitan dalam mencari customer, dan juga dapat mempermudah para pelanggan untuk mencari kreasi barang yang unik.
 Sesuai dengan pengalaman ibu rumah tangga yang mempunyai kreasi barang tersendiri dan ingin menjual barang tersebut tetapi mereka kesulitan dalam mencari pembeli. Disisi lain ada pembeli yang menginginkan barang-barang unik homemade yang tidak bisa didapatkan di tempat lain. Dengan begini para ibu rumah tangga selaku penjual dapat dengan mudah terhubung dengan para pembeli.
 
-# Features
+## Features
 1. Themes & Plugin
     - Bootstrap
           - Digunakan untuk mempermudah dalam pembuatan komponen webstite seperti navbar
@@ -16,7 +16,7 @@ Sesuai dengan pengalaman ibu rumah tangga yang mempunyai kreasi barang tersendir
       gh repo clone MissterMan/mom-stuff
       ```
 
-# Copyright
+## Copyright
    - Kewirausahaan Berbasis Teknologi
    - Nama Tim
         - Pratama Putra Prayogi (2020-514)
