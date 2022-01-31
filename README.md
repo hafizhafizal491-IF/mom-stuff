@@ -5,12 +5,12 @@ Mom’s Stuff Company merupakan penyedia layanan marketplace untuk menjual baran
 Sesuai dengan pengalaman ibu rumah tangga yang mempunyai kreasi barang tersendiri dan ingin menjual barang tersebut tetapi mereka kesulitan dalam mencari pembeli. Disisi lain ada pembeli yang menginginkan barang-barang unik homemade yang tidak bisa didapatkan di tempat lain. Dengan begini para ibu rumah tangga selaku penjual dapat dengan mudah terhubung dengan para pembeli.
 
 ## Features
-### Themes & Plugin
+ 1. **Themes & Plugin**
     - Bootstrap
           - Digunakan untuk mempermudah dalam pembuatan komponen webstite seperti navbar
     - CSS
           - Digunakan untuk merubah styling default dari bootstrap
-### Instalation & Configuration
+2. **Instalation & Configuration**
     - Clone repository ini
       ``` 
       gh repo clone MissterMan/mom-stuff
