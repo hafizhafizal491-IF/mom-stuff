@@ -12,3 +12,15 @@ Sesuai dengan pengalaman ibu rumah tangga yang mempunyai kreasi barang tersendir
           - Digunakan untuk merubah styling default dari bootstrap
 2. Instalation & Configuration
     - Clone repository ini
+      ``` 
+      gh repo clone MissterMan/mom-stuff
+      ```
+
+# Copyright
+   - Kewirausahaan Berbasis Teknologi
+   - Nama Tim
+        - Pratama Putra Prayogi (2020-514)
+        - Safira Nur Fatma Rikza (2020-479)
+        - Assyifa Salsadila (2020-488)
+  - Syaifudin,.S.kom,.M.kom
+  - Universitas Muhaamdiyah Malang
