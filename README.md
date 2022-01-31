@@ -15,6 +15,9 @@ Sesuai dengan pengalaman ibu rumah tangga yang mempunyai kreasi barang tersendir
       ``` 
       gh repo clone MissterMan/mom-stuff
       ```
+    - Atau bisa mengakses website dengan cara
+         - https://moms-stuff.000webhostapp.com/
+         - Klik detail lalu lanjutkan
 
 ## Copyright
    - Kewirausahaan Berbasis Teknologi
